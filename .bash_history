@@ -277,3 +277,6 @@ xclock
 ls
 cd ~/scripts/
 time ./Unit_Test.py 
+cat var.log
+cd ~/home
+grep dir

@@ -1,0 +1,54 @@
+[2022-06-14 11:33:00.840] [remoteagent] [info] Extension host agent started.
+[2022-06-14 11:33:00.972] [remoteagent] [info] [127.0.0.1][196818ef][ManagementConnection] New connection established.
+[2022-06-14 11:33:01.492] [remoteagent] [info] [127.0.0.1][29a619e8][ExtensionHostConnection] New connection established.
+[2022-06-14 11:33:01.497] [remoteagent] [info] [127.0.0.1][29a619e8][ExtensionHostConnection] <127> Launched Extension Host Process.
+[2022-06-14 11:33:39.685] [remoteagent] [info] [127.0.0.1][196818ef][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-06-14 11:33:39.696] [remoteagent] [info] [127.0.0.1][29a619e8][ExtensionHostConnection] <127> Extension Host Process exited with code: 0, signal: null.
+[2022-06-14 11:33:40.924] [remoteagent] [info] [127.0.0.1][a9a560b3][ManagementConnection] New connection established.
+[2022-06-14 11:33:41.303] [remoteagent] [info] [127.0.0.1][6fc7a338][ExtensionHostConnection] New connection established.
+[2022-06-14 11:33:41.306] [remoteagent] [info] [127.0.0.1][6fc7a338][ExtensionHostConnection] <171> Launched Extension Host Process.
+[2022-06-14 11:35:57.024] [remoteagent] [info] Getting Manifest... ms-python.python
+[2022-06-14 11:35:57.432] [remoteagent] [info] Installing extension: ms-python.python
+[2022-06-14 11:35:58.114] [remoteagent] [info] Getting Manifest... ms-toolsai.jupyter
+[2022-06-14 11:35:58.747] [remoteagent] [info] Getting Manifest... ms-toolsai.jupyter-keymap
+[2022-06-14 11:35:58.988] [remoteagent] [info] Getting Manifest... ms-toolsai.jupyter-renderers
+[2022-06-14 11:35:59.231] [remoteagent] [info] Getting Manifest... ms-python.vscode-pylance
+[2022-06-14 11:35:59.536] [remoteagent] [info] Installing extension: ms-toolsai.jupyter
+[2022-06-14 11:35:59.536] [remoteagent] [info] Installing extension: ms-toolsai.jupyter-keymap
+[2022-06-14 11:35:59.536] [remoteagent] [info] Installing extension: ms-toolsai.jupyter-renderers
+[2022-06-14 11:35:59.537] [remoteagent] [info] Installing extension: ms-python.vscode-pylance
+[2022-06-14 11:36:00.574] [remoteagent] [info] Downloaded extension: ms-toolsai.jupyter-keymap /home/htmhqi/.vscode-server/data/CachedExtensionVSIXs/ms-toolsai.jupyter-keymap-1.0.0
+[2022-06-14 11:36:00.590] [remoteagent] [info] Extracted extension to /home/htmhqi/.vscode-server/extensions/.968e8e1e-f3f6-41b7-b4f7-f92072a12d88: ms-toolsai.jupyter-keymap
+[2022-06-14 11:36:00.594] [remoteagent] [info] Renamed to /home/htmhqi/.vscode-server/extensions/ms-toolsai.jupyter-keymap-1.0.0
+[2022-06-14 11:36:00.595] [remoteagent] [info] Extracting completed. ms-toolsai.jupyter-keymap
+[2022-06-14 11:36:01.578] [remoteagent] [info] Downloaded extension: ms-toolsai.jupyter /home/htmhqi/.vscode-server/data/CachedExtensionVSIXs/ms-toolsai.jupyter-2022.5.1001601848
+[2022-06-14 11:36:02.009] [remoteagent] [info] Downloaded extension: ms-python.python /home/htmhqi/.vscode-server/data/CachedExtensionVSIXs/ms-python.python-2022.8.0
+[2022-06-14 11:36:02.133] [remoteagent] [info] Extracted extension to /home/htmhqi/.vscode-server/extensions/.1263ed67-a4f7-4be4-a0d6-b608fdba40f8: ms-toolsai.jupyter
+[2022-06-14 11:36:02.139] [remoteagent] [info] Renamed to /home/htmhqi/.vscode-server/extensions/ms-toolsai.jupyter-2022.5.1001601848
+[2022-06-14 11:36:02.149] [remoteagent] [info] Extracting completed. ms-toolsai.jupyter
+[2022-06-14 11:36:03.703] [remoteagent] [info] Extracted extension to /home/htmhqi/.vscode-server/extensions/.f6ad051c-b734-4d32-98eb-b0b53331efcb: ms-python.python
+[2022-06-14 11:36:03.715] [remoteagent] [info] Renamed to /home/htmhqi/.vscode-server/extensions/ms-python.python-2022.8.0
+[2022-06-14 11:36:03.720] [remoteagent] [info] Extracting completed. ms-python.python
+[2022-06-14 11:36:04.807] [remoteagent] [info] Downloaded extension: ms-toolsai.jupyter-renderers /home/htmhqi/.vscode-server/data/CachedExtensionVSIXs/ms-toolsai.jupyter-renderers-1.0.8
+[2022-06-14 11:36:04.945] [remoteagent] [info] Extracted extension to /home/htmhqi/.vscode-server/extensions/.f842fa3a-96dd-415c-8463-768303c42324: ms-toolsai.jupyter-renderers
+[2022-06-14 11:36:04.949] [remoteagent] [info] Renamed to /home/htmhqi/.vscode-server/extensions/ms-toolsai.jupyter-renderers-1.0.8
+[2022-06-14 11:36:04.950] [remoteagent] [info] Extracting completed. ms-toolsai.jupyter-renderers
+[2022-06-14 11:36:07.545] [remoteagent] [info] Downloaded extension: ms-python.vscode-pylance /home/htmhqi/.vscode-server/data/CachedExtensionVSIXs/ms-python.vscode-pylance-2022.6.10
+[2022-06-14 11:36:10.041] [remoteagent] [info] Extracted extension to /home/htmhqi/.vscode-server/extensions/.be756793-3162-4c79-aca1-b7c535c469e3: ms-python.vscode-pylance
+[2022-06-14 11:36:10.055] [remoteagent] [info] Renamed to /home/htmhqi/.vscode-server/extensions/ms-python.vscode-pylance-2022.6.10
+[2022-06-14 11:36:10.057] [remoteagent] [info] Extracting completed. ms-python.vscode-pylance
+[2022-06-14 11:36:10.057] [remoteagent] [info] Extension installed successfully: ms-toolsai.jupyter-keymap
+[2022-06-14 11:36:10.057] [remoteagent] [info] Extension installed successfully: ms-toolsai.jupyter
+[2022-06-14 11:36:10.057] [remoteagent] [info] Extension installed successfully: ms-python.python
+[2022-06-14 11:36:10.057] [remoteagent] [info] Extension installed successfully: ms-toolsai.jupyter-renderers
+[2022-06-14 11:36:10.057] [remoteagent] [info] Extension installed successfully: ms-python.vscode-pylance
+[2022-06-14 15:23:44.022] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-06-14 15:32:25.506] [remoteagent] [info] [127.0.0.1][6fc7a338][ExtensionHostConnection] The client has reconnected.
+[2022-06-14 15:32:25.568] [remoteagent] [info] [127.0.0.1][a9a560b3][ManagementConnection] The client has reconnected.
+[2022-06-14 19:07:41.054] [remoteagent] [info] [127.0.0.1][6fc7a338][ExtensionHostConnection] The client has reconnected.
+[2022-06-14 19:07:41.153] [remoteagent] [info] [127.0.0.1][a9a560b3][ManagementConnection] The client has reconnected.
+[2022-06-14 20:59:18.401] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-06-14 20:59:34.507] [remoteagent] [info] [127.0.0.1][6fc7a338][ExtensionHostConnection] The client has reconnected.
+[2022-06-14 20:59:34.569] [remoteagent] [info] [127.0.0.1][a9a560b3][ManagementConnection] The client has reconnected.
+[2022-06-15 00:16:26.464] [remoteagent] [info] [127.0.0.1][a9a560b3][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-06-15 00:16:26.495] [remoteagent] [info] [127.0.0.1][6fc7a338][ExtensionHostConnection] <171> Extension Host Process exited with code: 0, signal: null.

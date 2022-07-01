@@ -280,3 +280,54 @@ time ./Unit_Test.py
 cat var.log
 cd ~/home
 grep dir
+C:/Users/IMRRO/AppData/Local/Microsoft/WindowsApps/python3.10.exe /home/htmhqi/scripts/Unit_Test.py
+ls
+git status
+git commit
+git add
+git -a -m "add"
+cd ~/var/log
+cd ~/var
+ls /var/log
+cat lastlog
+cd /var
+cd scripts
+ls
+nano crash/
+cd /log
+cd ~/log
+cd /var/log
+ls
+cd /log/lastlog
+cd /lastlog
+cd ~/lastlog
+cat fontconfig.log 
+cd /
+cd ~
+ls
+apt install valgrind
+sudo apt install val;grind
+too
+top
+CD ~
+cd ~
+sudo install puppet
+sudo apt install puppet-master
+vim tools.pp
+sudo puppet apply -v tools.pp
+vim tools.pp
+sudo puppet apply -v tools.pp
+top
+C:/Users/IMRRO/AppData/Local/Microsoft/WindowsApps/python3.10.exe /home/htmhqi/scripts/test.py
+cd ~
+sudo puppet apply -v tools.pp
+htop
+sudo puppet apply -v tools.pp
+sudo puppet config --section master set autosign true
+ssh webswerver
+gem install puppet-lint
+sudo gem install puppet-lint
+puppet-lin/etc/puppet/modules
+puppet-lin ./etc/puppet/modules
+puppet-lint /etc/puppet/modules
+puppet-lint --fix /etc/puppet/modules

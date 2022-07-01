@@ -1,0 +1,27 @@
+[2022-06-30 12:57:50.805] [remoteagent] [info] Extension host agent started.
+[2022-06-30 12:57:51.001] [remoteagent] [info] [127.0.0.1][d02dcfd5][ManagementConnection] New connection established.
+[2022-06-30 12:57:51.009] [remoteagent] [info] [127.0.0.1][e51d5bab][ExtensionHostConnection] New connection established.
+[2022-06-30 12:57:51.273] [remoteagent] [info] [127.0.0.1][e51d5bab][ExtensionHostConnection] <143> Launched Extension Host Process.
+[2022-06-30 12:57:53.994] [remoteagent] [info] Getting Manifest... ms-python.python
+[2022-06-30 12:57:54.452] [remoteagent] [info] Installing extension: ms-python.python
+[2022-06-30 12:57:57.279] [remoteagent] [info] Downloaded extension: ms-python.python /home/htmhqi/.vscode-server/data/CachedExtensionVSIXs/ms-python.python-2022.8.1
+[2022-06-30 12:57:59.161] [remoteagent] [info] Extracted extension to /home/htmhqi/.vscode-server/extensions/.e7de26d9-0438-4cdb-bb1c-a5287b99527d: ms-python.python
+[2022-06-30 12:57:59.169] [remoteagent] [info] Renamed to /home/htmhqi/.vscode-server/extensions/ms-python.python-2022.8.1
+[2022-06-30 12:57:59.173] [remoteagent] [info] Extracting completed. ms-python.python
+[2022-06-30 12:57:59.177] [remoteagent] [info] Extension installed successfully: ms-python.python
+[2022-06-30 15:28:17.715] [remoteagent] [info] [127.0.0.1][d02dcfd5][ManagementConnection] The client has reconnected.
+[2022-06-30 15:28:17.800] [remoteagent] [info] [127.0.0.1][e51d5bab][ExtensionHostConnection] The client has reconnected.
+[2022-06-30 16:07:28.180] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-06-30 16:12:17.599] [remoteagent] [info] [127.0.0.1][d02dcfd5][ManagementConnection] The client has reconnected.
+[2022-06-30 16:12:17.667] [remoteagent] [info] [127.0.0.1][e51d5bab][ExtensionHostConnection] The client has reconnected.
+[2022-06-30 19:32:45.233] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-06-30 20:35:49.863] [remoteagent] [info] [127.0.0.1][e51d5bab][ExtensionHostConnection] The client has reconnected.
+[2022-06-30 20:36:17.525] [remoteagent] [info] [127.0.0.1][d02dcfd5][ManagementConnection] The client has reconnected.
+[2022-06-30 21:05:51.232] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-06-30 21:06:01.459] [remoteagent] [info] [127.0.0.1][e51d5bab][ExtensionHostConnection] The client has reconnected.
+[2022-06-30 21:06:01.562] [remoteagent] [info] [127.0.0.1][d02dcfd5][ManagementConnection] The client has reconnected.
+[2022-06-30 21:32:04.302] [remoteagent] [info] [127.0.0.1][d02dcfd5][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-06-30 21:32:04.374] [remoteagent] [info] [127.0.0.1][e51d5bab][ExtensionHostConnection] <143> Extension Host Process exited with code: 0, signal: null.
+[2022-06-30 21:32:07.355] [remoteagent] [info] [127.0.0.1][aaac2595][ManagementConnection] New connection established.
+[2022-06-30 21:32:07.662] [remoteagent] [info] [127.0.0.1][611130f1][ExtensionHostConnection] New connection established.
+[2022-06-30 21:32:07.670] [remoteagent] [info] [127.0.0.1][611130f1][ExtensionHostConnection] <4216> Launched Extension Host Process.

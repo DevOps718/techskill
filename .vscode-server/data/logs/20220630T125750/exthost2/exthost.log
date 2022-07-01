@@ -1,0 +1,23 @@
+[2022-06-30 21:32:08.399] [exthost] [info] Extension host with pid 4216 started
+[2022-06-30 21:32:08.414] [exthost] [info] Lock '/home/htmhqi/.vscode-server/data/User/workspaceStorage/b8b0059f5e879175db10163d2663be81/vscode.lock': Lock acquired.
+[2022-06-30 21:32:08.479] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python'
+[2022-06-30 21:32:08.842] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onLanguage:python'
+[2022-06-30 21:32:09.145] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-06-30 21:32:09.148] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-06-30 21:32:09.151] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-06-30 21:32:09.307] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-06-30 21:32:09.367] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-06-30 21:32:09.648] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter-renderers, startup: false, activationEvent: 'api', root cause: ms-toolsai.jupyter
+[2022-06-30 21:32:09.702] [exthost] [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+[2022-06-30 21:32:09.805] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-30 21:32:09.817] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-30 21:32:09.820] [exthost] [info] Eager extensions activated
+[2022-06-30 21:32:10.022] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 2576
+[2022-06-30 21:32:10.423] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-06-30 21:32:10.426] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-06-30 21:32:10.469] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-06-30 21:32:13.639] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 2578
+[2022-06-30 21:32:14.124] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 2578
+[2022-06-30 21:32:19.232] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 2578
+[2022-06-30 21:32:25.152] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 2578
+[2022-06-30 21:32:30.231] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 2578

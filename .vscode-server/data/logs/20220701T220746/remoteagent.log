@@ -1,0 +1,5 @@
+[2022-07-01 22:07:46.548] [remoteagent] [info] Extension host agent started.
+[2022-07-01 22:07:46.692] [remoteagent] [info] [127.0.0.1][680ec5b9][ManagementConnection] New connection established.
+[2022-07-01 22:07:46.843] [remoteagent] [info] [127.0.0.1][dd93ce98][ExtensionHostConnection] New connection established.
+[2022-07-01 22:07:47.039] [remoteagent] [info] Deleted from disk ms-python.python /home/htmhqi/.vscode-server/extensions/ms-python.python-2022.8.0
+[2022-07-01 22:07:47.062] [remoteagent] [info] [127.0.0.1][dd93ce98][ExtensionHostConnection] <143> Launched Extension Host Process.

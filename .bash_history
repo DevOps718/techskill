@@ -331,3 +331,17 @@ puppet-lin/etc/puppet/modules
 puppet-lin ./etc/puppet/modules
 puppet-lint /etc/puppet/modules
 puppet-lint --fix /etc/puppet/modules
+git status
+git push test_skills
+git push --set-upstream test_skills test_skills
+git ls
+--help
+git --helo
+git --help
+git log'
+
+
+q
+sdv,sl;dv
+C:/Users/IMRRO/AppData/Local/Microsoft/WindowsApps/python3.10.exe /home/htmhqi/scripts/test.py
+git log

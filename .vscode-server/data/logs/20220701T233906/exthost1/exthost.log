@@ -8,3 +8,6 @@
 [2022-07-01 23:39:09.836] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
 [2022-07-01 23:39:09.849] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
 [2022-07-01 23:39:09.852] [exthost] [info] Eager extensions activated
+[2022-07-01 23:39:35.649] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-07-01 23:39:35.650] [exthost] [info] Lock '/home/htmhqi/.vscode-server/data/User/workspaceStorage/b8b0059f5e879175db10163d2663be81/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2022-07-01 23:39:35.658] [exthost] [info] Extension host with pid 94 exiting with code 0

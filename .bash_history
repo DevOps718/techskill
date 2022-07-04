@@ -345,3 +345,7 @@ q
 sdv,sl;dv
 C:/Users/IMRRO/AppData/Local/Microsoft/WindowsApps/python3.10.exe /home/htmhqi/scripts/test.py
 git log
+C:/Users/IMRRO/AppData/Local/Microsoft/WindowsApps/python3.10.exe /home/htmhqi/scripts/test.py
+ps ax|grep hello
+ls -i
+ls -l

@@ -1,0 +1,11 @@
+[2022-07-07 13:13:40.854] [remoteagent] [info] Extension host agent started.
+[2022-07-07 13:13:40.987] [remoteagent] [info] [127.0.0.1][a2162732][ManagementConnection] New connection established.
+[2022-07-07 13:13:41.069] [remoteagent] [info] [127.0.0.1][b6abd384][ExtensionHostConnection] New connection established.
+[2022-07-07 13:13:41.078] [remoteagent] [info] [127.0.0.1][b6abd384][ExtensionHostConnection] <5944> Launched Extension Host Process.
+[2022-07-07 13:13:45.123] [remoteagent] [info] Getting Manifest... ms-python.vscode-pylance
+[2022-07-07 13:13:45.469] [remoteagent] [info] Installing extension: ms-python.vscode-pylance
+[2022-07-07 13:13:50.239] [remoteagent] [info] Downloaded extension: ms-python.vscode-pylance /home/htmhqi/.vscode-server/data/CachedExtensionVSIXs/ms-python.vscode-pylance-2022.7.20
+[2022-07-07 13:13:53.234] [remoteagent] [info] Extracted extension to /home/htmhqi/.vscode-server/extensions/.f30e6da9-bbae-4d08-a762-80e1ddcd827c: ms-python.vscode-pylance
+[2022-07-07 13:13:53.243] [remoteagent] [info] Renamed to /home/htmhqi/.vscode-server/extensions/ms-python.vscode-pylance-2022.7.20
+[2022-07-07 13:13:53.246] [remoteagent] [info] Extracting completed. ms-python.vscode-pylance
+[2022-07-07 13:13:53.249] [remoteagent] [info] Extension installed successfully: ms-python.vscode-pylance

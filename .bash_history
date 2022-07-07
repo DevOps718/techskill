@@ -349,3 +349,23 @@ C:/Users/IMRRO/AppData/Local/Microsoft/WindowsApps/python3.10.exe /home/htmhqi/s
 ps ax|grep hello
 ls -i
 ls -l
+gcloud auth login --remote-bootstrap="https://accounts.google.com/o/oauth2/auth?response_type=code&client_id=32555940559.apps.googleusercontent.com&scope=openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fappengine.admin+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fsqlservice.login+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcompute+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Faccounts.reauth&state=j17hACSBotpN96vBJ04hpgcSoFhjYG&access_type=offline&code_challenge=V-Z_WZHtYthMs6pLAv3br10cCoClK7P1oFLQT_ef1G0&code_challenge_method=S256&token_usage=remote"
+install gcloud
+install apt gcloud
+C:/Users/IMRRO/AppData/Local/Microsoft/WindowsApps/python3.10.exe /home/htmhqi/scripts/test2.py
+git status
+sudo apt install pillow
+pip3
+sudo apt install python3-pillow
+python3
+apt install pillow
+sudo apt install pillow
+sudo install pillow
+pip install pillow
+sudo apt install python3-pip
+apt-get update pip
+apt-get update 
+sudo apt-get update
+pip install pillow
+sudo apt install python3-pip
+pip install pillow

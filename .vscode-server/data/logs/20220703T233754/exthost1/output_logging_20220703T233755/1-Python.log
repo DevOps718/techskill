@@ -1,0 +1,172 @@
+Experiment 'pythonaacf' is active
+Experiment 'pythonTensorboardExperiment' is active
+Experiment 'PythonPyTorchProfiler' is active
+LSP Notebooks experiment is disabled -- not in treatment group
+> conda info --json
+> C:\Users\IMRRO\AppData\Local\Microsoft\WindowsApps\python3.10.exe -c "import sys;print(sys.executable)"
+> C:\Users\IMRRO\AppData\Local\Microsoft\WindowsApps\python3.10.exe -c "import sys;print(sys.executable)"
+> C:\Users\IMRRO\AppData\Local\Microsoft\WindowsApps\python3.10.exe -c "import sys;print(sys.executable)"
+[ERROR 2022-6-3 23:37:57.598]: [Error: Command failed: C:\Users\IMRRO\AppData\Local\Microsoft\WindowsApps\python3.10.exe -c "import sys;print(sys.executable)"
+/bin/sh: 1: C:UsersIMRROAppDataLocalMicrosoftWindowsAppspython3.10.exe: Permission denied
+
+	at ChildProcess.exithandler (node:child_process:397:12)
+	at ChildProcess.emit (node:events:390:28)
+	at maybeClose (node:internal/child_process:1064:16)
+	at Socket.<anonymous> (node:internal/child_process:450:11)
+	at Socket.emit (node:events:390:28)
+	at Pipe.<anonymous> (node:net:687:12)] {
+  killed: false,
+  code: 127,
+  signal: null,
+  cmd: 'C:\\Users\\IMRRO\\AppData\\Local\\Microsoft\\WindowsApps\\python3.10.exe -c "import sys;print(sys.executable)"'
+}
+[ERROR 2022-6-3 23:37:57.602]: [Error: Command failed: C:\Users\IMRRO\AppData\Local\Microsoft\WindowsApps\python3.10.exe -c "import sys;print(sys.executable)"
+/bin/sh: 1: C:UsersIMRROAppDataLocalMicrosoftWindowsAppspython3.10.exe: Permission denied
+
+	at ChildProcess.exithandler (node:child_process:397:12)
+	at ChildProcess.emit (node:events:390:28)
+	at maybeClose (node:internal/child_process:1064:16)
+	at Socket.<anonymous> (node:internal/child_process:450:11)
+	at Socket.emit (node:events:390:28)
+	at Pipe.<anonymous> (node:net:687:12)] {
+  killed: false,
+  code: 127,
+  signal: null,
+  cmd: 'C:\\Users\\IMRRO\\AppData\\Local\\Microsoft\\WindowsApps\\python3.10.exe -c "import sys;print(sys.executable)"'
+}
+> C:\Users\IMRRO\AppData\Local\Microsoft\WindowsApps\python3.10.exe -c "import sys;print(sys.executable)"
+[ERROR 2022-6-3 23:37:57.667]: [Error: Command failed: C:\Users\IMRRO\AppData\Local\Microsoft\WindowsApps\python3.10.exe -c "import sys;print(sys.executable)"
+/bin/sh: 1: C:UsersIMRROAppDataLocalMicrosoftWindowsAppspython3.10.exe: Permission denied
+
+	at ChildProcess.exithandler (node:child_process:397:12)
+	at ChildProcess.emit (node:events:390:28)
+	at maybeClose (node:internal/child_process:1064:16)
+	at Socket.<anonymous> (node:internal/child_process:450:11)
+	at Socket.emit (node:events:390:28)
+	at Pipe.<anonymous> (node:net:687:12)] {
+  killed: false,
+  code: 127,
+  signal: null,
+  cmd: 'C:\\Users\\IMRRO\\AppData\\Local\\Microsoft\\WindowsApps\\python3.10.exe -c "import sys;print(sys.executable)"'
+}
+[ERROR 2022-6-3 23:37:57.697]: [Error: Command failed: C:\Users\IMRRO\AppData\Local\Microsoft\WindowsApps\python3.10.exe -c "import sys;print(sys.executable)"
+/bin/sh: 1: C:UsersIMRROAppDataLocalMicrosoftWindowsAppspython3.10.exe: Permission denied
+
+	at ChildProcess.exithandler (node:child_process:397:12)
+	at ChildProcess.emit (node:events:390:28)
+	at maybeClose (node:internal/child_process:1064:16)
+	at Socket.<anonymous> (node:internal/child_process:450:11)
+	at Socket.emit (node:events:390:28)
+	at Pipe.<anonymous> (node:net:687:12)] {
+  killed: false,
+  code: 127,
+  signal: null,
+  cmd: 'C:\\Users\\IMRRO\\AppData\\Local\\Microsoft\\WindowsApps\\python3.10.exe -c "import sys;print(sys.executable)"'
+}
+Starting Pylance language server.
+Diagnostic Code: NoPythonInterpretersDiagnostic, Message: Python is not installed. Please download and install Python before using the extension.
+> C:\Users\IMRRO\AppData\Local\Microsoft\WindowsApps\python3.10.exe -c "import sys;print(sys.executable)"
+> C:\Users\IMRRO\AppData\Local\Microsoft\WindowsApps\python3.10.exe -c "import sys;print(sys.executable)"
+[ERROR 2022-6-3 23:43:9.762]: [Error: Command failed: C:\Users\IMRRO\AppData\Local\Microsoft\WindowsApps\python3.10.exe -c "import sys;print(sys.executable)"
+/bin/sh: 1: C:UsersIMRROAppDataLocalMicrosoftWindowsAppspython3.10.exe: Permission denied
+
+	at ChildProcess.exithandler (node:child_process:397:12)
+	at ChildProcess.emit (node:events:390:28)
+	at maybeClose (node:internal/child_process:1064:16)
+	at Socket.<anonymous> (node:internal/child_process:450:11)
+	at Socket.emit (node:events:390:28)
+	at Pipe.<anonymous> (node:net:687:12)] {
+  killed: false,
+  code: 127,
+  signal: null,
+  cmd: 'C:\\Users\\IMRRO\\AppData\\Local\\Microsoft\\WindowsApps\\python3.10.exe -c "import sys;print(sys.executable)"'
+}
+[ERROR 2022-6-3 23:43:9.763]: [Error: Command failed: C:\Users\IMRRO\AppData\Local\Microsoft\WindowsApps\python3.10.exe -c "import sys;print(sys.executable)"
+/bin/sh: 1: C:UsersIMRROAppDataLocalMicrosoftWindowsAppspython3.10.exe: Permission denied
+
+	at ChildProcess.exithandler (node:child_process:397:12)
+	at ChildProcess.emit (node:events:390:28)
+	at maybeClose (node:internal/child_process:1064:16)
+	at Socket.<anonymous> (node:internal/child_process:450:11)
+	at Socket.emit (node:events:390:28)
+	at Pipe.<anonymous> (node:net:687:12)] {
+  killed: false,
+  code: 127,
+  signal: null,
+  cmd: 'C:\\Users\\IMRRO\\AppData\\Local\\Microsoft\\WindowsApps\\python3.10.exe -c "import sys;print(sys.executable)"'
+}
+> C:\Users\IMRRO\AppData\Local\Microsoft\WindowsApps\python3.10.exe -c "import sys;print(sys.executable)"
+[ERROR 2022-6-3 23:50:35.366]: [Error: Command failed: C:\Users\IMRRO\AppData\Local\Microsoft\WindowsApps\python3.10.exe -c "import sys;print(sys.executable)"
+/bin/sh: 1: C:UsersIMRROAppDataLocalMicrosoftWindowsAppspython3.10.exe: Permission denied
+
+	at ChildProcess.exithandler (node:child_process:397:12)
+	at ChildProcess.emit (node:events:390:28)
+	at maybeClose (node:internal/child_process:1064:16)
+	at Socket.<anonymous> (node:internal/child_process:450:11)
+	at Socket.emit (node:events:390:28)
+	at Pipe.<anonymous> (node:net:687:12)] {
+  killed: false,
+  code: 127,
+  signal: null,
+  cmd: 'C:\\Users\\IMRRO\\AppData\\Local\\Microsoft\\WindowsApps\\python3.10.exe -c "import sys;print(sys.executable)"'
+}
+> C:\Users\IMRRO\AppData\Local\Microsoft\WindowsApps\python3.10.exe -c "import sys;print(sys.executable)"
+[ERROR 2022-6-3 23:50:41.283]: [Error: Command failed: C:\Users\IMRRO\AppData\Local\Microsoft\WindowsApps\python3.10.exe -c "import sys;print(sys.executable)"
+/bin/sh: 1: C:UsersIMRROAppDataLocalMicrosoftWindowsAppspython3.10.exe: Permission denied
+
+	at ChildProcess.exithandler (node:child_process:397:12)
+	at ChildProcess.emit (node:events:390:28)
+	at maybeClose (node:internal/child_process:1064:16)
+	at Socket.<anonymous> (node:internal/child_process:450:11)
+	at Socket.emit (node:events:390:28)
+	at Pipe.<anonymous> (node:net:687:12)] {
+  killed: false,
+  code: 127,
+  signal: null,
+  cmd: 'C:\\Users\\IMRRO\\AppData\\Local\\Microsoft\\WindowsApps\\python3.10.exe -c "import sys;print(sys.executable)"'
+}
+> C:\Users\IMRRO\AppData\Local\Microsoft\WindowsApps\python3.10.exe -c "import sys;print(sys.executable)"
+[ERROR 2022-6-3 23:50:41.425]: [Error: Command failed: C:\Users\IMRRO\AppData\Local\Microsoft\WindowsApps\python3.10.exe -c "import sys;print(sys.executable)"
+/bin/sh: 1: C:UsersIMRROAppDataLocalMicrosoftWindowsAppspython3.10.exe: Permission denied
+
+	at ChildProcess.exithandler (node:child_process:397:12)
+	at ChildProcess.emit (node:events:390:28)
+	at maybeClose (node:internal/child_process:1064:16)
+	at Socket.<anonymous> (node:internal/child_process:450:11)
+	at Socket.emit (node:events:390:28)
+	at Pipe.<anonymous> (node:net:687:12)] {
+  killed: false,
+  code: 127,
+  signal: null,
+  cmd: 'C:\\Users\\IMRRO\\AppData\\Local\\Microsoft\\WindowsApps\\python3.10.exe -c "import sys;print(sys.executable)"'
+}
+> C:\Users\IMRRO\AppData\Local\Microsoft\WindowsApps\python3.10.exe -c "import sys;print(sys.executable)"
+[ERROR 2022-6-3 23:50:41.465]: [Error: Command failed: C:\Users\IMRRO\AppData\Local\Microsoft\WindowsApps\python3.10.exe -c "import sys;print(sys.executable)"
+/bin/sh: 1: C:UsersIMRROAppDataLocalMicrosoftWindowsAppspython3.10.exe: Permission denied
+
+	at ChildProcess.exithandler (node:child_process:397:12)
+	at ChildProcess.emit (node:events:390:28)
+	at maybeClose (node:internal/child_process:1064:16)
+	at Socket.<anonymous> (node:internal/child_process:450:11)
+	at Socket.emit (node:events:390:28)
+	at Pipe.<anonymous> (node:net:687:12)] {
+  killed: false,
+  code: 127,
+  signal: null,
+  cmd: 'C:\\Users\\IMRRO\\AppData\\Local\\Microsoft\\WindowsApps\\python3.10.exe -c "import sys;print(sys.executable)"'
+}
+> C:\Users\IMRRO\AppData\Local\Microsoft\WindowsApps\python3.10.exe ~/.vscode-server/extensions/ms-python.python-2022.8.1/pythonFiles/get_output_via_markers.py ~/.vscode-server/extensions/ms-python.python-2022.8.1/pythonFiles/interpreterInfo.py
+[ERROR 2022-6-3 23:50:41.533]: [Error: Command failed: C:\Users\IMRRO\AppData\Local\Microsoft\WindowsApps\python3.10.exe /home/htmhqi/.vscode-server/extensions/ms-python.python-2022.8.1/pythonFiles/get_output_via_markers.py /home/htmhqi/.vscode-server/extensions/ms-python.python-2022.8.1/pythonFiles/interpreterInfo.py
+/bin/sh: 1: C:UsersIMRROAppDataLocalMicrosoftWindowsAppspython3.10.exe: Permission denied
+
+	at ChildProcess.exithandler (node:child_process:397:12)
+	at ChildProcess.emit (node:events:390:28)
+	at maybeClose (node:internal/child_process:1064:16)
+	at Socket.<anonymous> (node:internal/child_process:450:11)
+	at Socket.emit (node:events:390:28)
+	at Pipe.<anonymous> (node:net:687:12)] {
+  killed: false,
+  code: 127,
+  signal: null,
+  cmd: 'C:\\Users\\IMRRO\\AppData\\Local\\Microsoft\\WindowsApps\\python3.10.exe /home/htmhqi/.vscode-server/extensions/ms-python.python-2022.8.1/pythonFiles/get_output_via_markers.py /home/htmhqi/.vscode-server/extensions/ms-python.python-2022.8.1/pythonFiles/interpreterInfo.py'
+}

@@ -369,3 +369,37 @@ sudo apt-get update
 pip install pillow
 sudo apt install python3-pip
 pip install pillow
+ls
+cd scripts/
+ls
+./image-Graber.py 
+C:/Users/IMRRO/AppData/Local/Microsoft/WindowsApps/python3.10.exe /home/htmhqi/scripts/image-Graber.py
+ls
+chmod +x image-Graber.py 
+./image-Graber.py 
+python3
+./image-Graber.py 
+ls
+cd /
+ls
+cd ~
+ls
+./image-Graber.py 
+cd scripts
+./image-Graber.py 
+ls
+./image-Graber.py 
+ls
+cd
+ls
+cd newfolder
+ls
+cd scripts
+cd
+cd scripts
+ls\
+./image-Graber.py 
+cd
+ls
+cd newfolder/
+ls

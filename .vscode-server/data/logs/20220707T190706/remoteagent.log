@@ -17,3 +17,7 @@
 [2022-07-07 19:07:20.821] [remoteagent] [info] Renamed to /home/htmhqi/.vscode-server/extensions/ms-python.python-2022.10.0
 [2022-07-07 19:07:20.825] [remoteagent] [info] Extracting completed. ms-python.python
 [2022-07-07 19:07:20.829] [remoteagent] [info] Extension installed successfully: ms-python.python
+[2022-07-07 21:01:54.228] [remoteagent] [info] [127.0.0.1][b7e96c24][ManagementConnection] The client has reconnected.
+[2022-07-07 21:01:59.218] [remoteagent] [info] [127.0.0.1][12b10e8f][ExtensionHostConnection] The client has reconnected.
+[2022-07-07 21:02:54.965] [remoteagent] [info] [127.0.0.1][b7e96c24][ManagementConnection] The client has reconnected.
+[2022-07-07 21:02:55.024] [remoteagent] [info] [127.0.0.1][12b10e8f][ExtensionHostConnection] The client has reconnected.

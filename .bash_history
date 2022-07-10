@@ -403,3 +403,6 @@ cd
 ls
 cd newfolder/
 ls
+printenv > /tmp/tmp-143z97lGgVNXTLOtxt
+./
+./image-Graber.py 

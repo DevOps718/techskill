@@ -1,0 +1,24 @@
+Visual Studio Code (1.69.0, wsl, desktop)
+Jupyter Extension Version: 2022.6.1001902341.
+Python Extension Version: 2022.10.0.
+Workspace folder /home/htmhqi/scripts
+info 9:1:11.86: ZMQ install verified.
+User belongs to experiment group 'jupyterTestcf'
+User belongs to experiment group 'jupyterEnhancedDataViewer'
+info 9:1:11.511: LSP Notebooks experiment is disabled -- not in treatment group
+info 9:1:11.572: Process Execution: > jupyter notebook --version
+> jupyter notebook --version
+info 9:1:11.623: Process Execution: > jupyter lab --version
+> jupyter lab --version
+info 9:1:11.765: Experiment status for python is {"enabled":true,"optInto":[],"optOutFrom":[]}
+info 9:1:16.641: Process Execution: > jupyter notebook --version
+> jupyter notebook --version
+info 9:1:16.675: Process Execution: > jupyter lab --version
+> jupyter lab --version
+info 9:18:6.810: Shutting down notebooks for 849cef32-2bae-425f-8eb1-f4037d9c43fd
+info 9:18:6.810: Disposing HostJupyterExecution 5823d167-306f-4e68-a7fc-50e2a1b1e7d2
+info 9:18:6.810: Disposing super HostJupyterExecution 5823d167-306f-4e68-a7fc-50e2a1b1e7d2
+info 9:18:6.810: Disposing HostJupyterExecution 5823d167-306f-4e68-a7fc-50e2a1b1e7d2
+info 9:18:6.810: Finished disposing HostJupyterExecution  5823d167-306f-4e68-a7fc-50e2a1b1e7d2
+info 9:18:6.814: Cleaning up server cache 5823d167-306f-4e68-a7fc-50e2a1b1e7d2
+info 9:18:6.814: Finished disposing HostJupyterExecution  5823d167-306f-4e68-a7fc-50e2a1b1e7d2

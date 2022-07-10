@@ -7,3 +7,10 @@ User belongs to experiment group 'jupyterTestcf'
 User belongs to experiment group 'jupyterEnhancedDataViewer'
 info 19:7:9.853: LSP Notebooks experiment is disabled -- not in treatment group
 info 19:7:9.987: Experiment status for python is {"enabled":true,"optInto":[],"optOutFrom":[]}
+info 22:58:10.531: Shutting down notebooks for 5f5a9326-fb7e-4839-b5f1-682a58b084d0
+info 22:58:10.532: Disposing HostJupyterExecution ce04748d-37bd-4346-ba55-86ca5c45579b
+info 22:58:10.532: Disposing super HostJupyterExecution ce04748d-37bd-4346-ba55-86ca5c45579b
+info 22:58:10.532: Disposing HostJupyterExecution ce04748d-37bd-4346-ba55-86ca5c45579b
+info 22:58:10.532: Finished disposing HostJupyterExecution  ce04748d-37bd-4346-ba55-86ca5c45579b
+info 22:58:10.535: Cleaning up server cache ce04748d-37bd-4346-ba55-86ca5c45579b
+info 22:58:10.536: Finished disposing HostJupyterExecution  ce04748d-37bd-4346-ba55-86ca5c45579b

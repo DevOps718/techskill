@@ -1,0 +1,8 @@
+[2022-07-09 09:00:29.393] [remoteagent] [info] Extension host agent started.
+[2022-07-09 09:00:29.593] [remoteagent] [info] [127.0.0.1][8c972e33][ManagementConnection] New connection established.
+[2022-07-09 09:00:29.622] [remoteagent] [info] [127.0.0.1][95165139][ExtensionHostConnection] New connection established.
+[2022-07-09 09:00:29.757] [remoteagent] [info] Deleted from disk ms-toolsai.jupyter /home/htmhqi/.vscode-server/extensions/ms-toolsai.jupyter-2022.5.1001601848
+[2022-07-09 09:00:29.843] [remoteagent] [info] Deleted from disk ms-python.python /home/htmhqi/.vscode-server/extensions/ms-python.python-2022.8.1
+[2022-07-09 09:00:29.869] [remoteagent] [info] [127.0.0.1][95165139][ExtensionHostConnection] <143> Launched Extension Host Process.
+[2022-07-09 09:18:06.816] [remoteagent] [info] [127.0.0.1][8c972e33][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-07-09 09:18:06.831] [remoteagent] [info] [127.0.0.1][95165139][ExtensionHostConnection] <143> Extension Host Process exited with code: 0, signal: null.

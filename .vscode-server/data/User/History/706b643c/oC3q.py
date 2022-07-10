@@ -25,8 +25,7 @@ for (root, dirs, files) in os.walk('.'):
             #print(str(path))
             os.chdir(path)
             im.rotate(180).resize((640,480)).save("flipped_and_resized.jpg")
-            
-            #img.save('{}.png'.format(file_name))
+            img.save('{}.png'.format(file_name))
             
             #print(im.format, im.size, im.mode)
             

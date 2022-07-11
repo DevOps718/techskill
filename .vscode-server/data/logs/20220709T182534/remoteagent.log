@@ -8,3 +8,5 @@
 [2022-07-09 21:57:10.134] [remoteagent] [info] [127.0.0.1][55fd9bdd][ManagementConnection] The client has reconnected.
 [2022-07-09 23:50:10.034] [remoteagent] [info] [127.0.0.1][55fd9bdd][ManagementConnection] The client has reconnected.
 [2022-07-09 23:50:10.110] [remoteagent] [info] [127.0.0.1][162d20c7][ExtensionHostConnection] The client has reconnected.
+[2022-07-10 01:02:26.287] [remoteagent] [info] [127.0.0.1][162d20c7][ExtensionHostConnection] <92> Extension Host Process exited with code: 0, signal: null.
+[2022-07-10 01:02:26.295] [remoteagent] [info] [127.0.0.1][55fd9bdd][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.

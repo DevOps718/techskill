@@ -17,14 +17,15 @@ print(current_directory)
 
 for (root, dirs, files) in os.walk('.'):
     for file in files:
-        if file.endswith(".jpg"):
+        if file.format == 'JPEG':
             name = os.getcwd() + '/'+file
             im = Image.open(name)
             os.makedirs("/home/htmhqi/newfolder", exist_ok=True)
             path = "/home/htmhqi/newfolder"
             #print(str(path))
             os.chdir(path)
-            im.rotate(180).resize((640,480)).save("flipped_and_resized.jpg")
+            #file_name, file_ext = os.path.splitext(file)
+            im.rotate(180).resize((640,480)).save('{}.png'.format(name))
             
             #img.save('{}.png'.format(file_name))
             

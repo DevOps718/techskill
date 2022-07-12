@@ -406,3 +406,178 @@ ls
 printenv > /tmp/tmp-143z97lGgVNXTLOtxt
 ./
 ./image-Graber.py 
+ls
+./image-Graber.py 
+ls
+cd
+ls
+cd newfolder/
+ls
+cd ~
+./image-Graber.py 
+cd scripts/
+ls
+./image-Graber.py 
+ls
+cd images/
+ls
+./image-Graber.py 
+cd ~
+ls
+cd newfolder/
+ls
+cd ~
+cd /
+ls
+cd ~
+ls
+cd scripts/
+ls
+cd images/
+ls
+./image-Graber.py 
+
+./image-Graber.py 
+ls
+cd ~
+ls
+cd newfolder/
+ls
+cd ~
+ls
+cd scripts/
+ls
+cd ?
+cd /
+ls
+cd ~
+ls
+cd newfolder/
+ls
+cd ~
+ls
+cd scripts/
+ls
+cd images/
+ls
+./image-Graber.py 
+cd ~
+ls
+cd newfolder/
+ls
+cd ~
+ls
+cd sc
+cd scripts/
+ls
+cd images/
+ls
+./image-Graber.py 
+ls
+./image-Graber.py 
+ls
+cat image-Graber.py 
+ls
+rm garbage.jpg.png
+./image-Graber.py 
+ls
+cd
+ls
+cd newfolder/
+ls
+cd
+ls
+cd scripts/
+la
+cd im
+cd images/
+ls
+./image-Graber.py 
+rm garbage.jpg.png
+./image-Graber.py 
+ls
+cd
+ls
+cd newfolder/
+ls
+rm garbage.png 
+ls
+cd
+ls
+cd nq
+cd newfolder/
+ls
+cd
+ls
+cd scripts/
+ls
+
+cd images
+ls
+./image-Graber.py 
+ls
+cd
+ls
+cd newfolder/
+ls
+cd
+ls
+cd scripts/
+./image-Graber.py 
+./image-Graber.py
+cd images/
+./image-Graber.py
+cd
+ls
+cd newfolder/
+ls
+cd
+la
+cd/
+ls
+cd scripts/
+cd images/
+./image-Graber.py
+ls
+cd
+ls
+cd new
+cd newfolder/
+ls
+cd images/
+ls
+./image-Graber.py 
+ls
+cd
+ls
+cd newfolder/
+ls
+cd
+ls
+cd im
+cd /
+ls
+cd 
+ld
+ls
+cd scripts/
+ls
+cd images/
+ls
+./image-Graber.py 
+ls
+cd images/
+ls
+mv scriptwiki.py newfolder
+ls
+mv newfolder scriptwiki.py 
+ls
+chmod +x scriptwiki.py 
+./scriptwiki.py 
+ls
+cd
+ls
+cd newfolder/
+ls
+rm flipped_and_resized.jpg 
+ls

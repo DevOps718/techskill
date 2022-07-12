@@ -1,0 +1,13 @@
+[2022-07-11 22:42:40.531] [remoteagent] [info] Extension host agent started.
+[2022-07-11 22:42:40.770] [remoteagent] [info] [127.0.0.1][04227c9f][ManagementConnection] New connection established.
+[2022-07-11 22:42:40.881] [remoteagent] [info] [127.0.0.1][d20e95a2][ExtensionHostConnection] New connection established.
+[2022-07-11 22:42:41.112] [remoteagent] [info] [127.0.0.1][d20e95a2][ExtensionHostConnection] <143> Launched Extension Host Process.
+[2022-07-11 22:42:43.973] [remoteagent] [info] Getting Manifest... ms-toolsai.jupyter
+[2022-07-11 22:42:44.426] [remoteagent] [info] Installing extension: ms-toolsai.jupyter
+[2022-07-11 22:42:51.056] [remoteagent] [info] Downloaded extension: ms-toolsai.jupyter /home/htmhqi/.vscode-server/data/CachedExtensionVSIXs/ms-toolsai.jupyter-2022.6.1101950301
+[2022-07-11 22:42:51.624] [remoteagent] [info] Extracted extension to /home/htmhqi/.vscode-server/extensions/.d484bccb-f0d3-4ab9-a9ba-665e05b04ccd: ms-toolsai.jupyter
+[2022-07-11 22:42:51.633] [remoteagent] [info] Renamed to /home/htmhqi/.vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301
+[2022-07-11 22:42:51.640] [remoteagent] [info] Extracting completed. ms-toolsai.jupyter
+[2022-07-11 22:42:51.644] [remoteagent] [info] Extension installed successfully: ms-toolsai.jupyter
+[2022-07-11 22:49:15.606] [remoteagent] [info] [127.0.0.1][04227c9f][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-07-11 22:49:15.618] [remoteagent] [info] [127.0.0.1][d20e95a2][ExtensionHostConnection] <143> Extension Host Process exited with code: 0, signal: null.

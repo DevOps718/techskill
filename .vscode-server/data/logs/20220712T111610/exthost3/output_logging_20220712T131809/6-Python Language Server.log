@@ -1,0 +1,16 @@
+[Info  - 1:25:34 PM] (10789) Pylance language server 2022.7.20 (pyright 7cadfb74) starting
+[Info  - 1:25:34 PM] (10789) Server root directory: /home/htmhqi/.vscode-server/extensions/ms-python.vscode-pylance-2022.7.20/dist
+Notebook support: Legacy
+[Info  - 1:25:34 PM] (10789) No configuration file found.
+[Info  - 1:25:34 PM] (10789) No pyproject.toml file found.
+[Info  - 1:25:34 PM] (10789) Setting pythonPath for service "scripts": "C:/Users/IMRRO/AppData/Local/Microsoft/WindowsApps/python3.10.exe"
+[Warn  - 1:25:34 PM] (10789) stubPath /home/htmhqi/scripts/typings is not a valid directory.
+[Info  - 1:25:34 PM] (10789) Unable to get Python version from interpreter
+[Info  - 1:25:34 PM] (10789) Assuming Python platform Linux
+[Info  - 1:25:34 PM] (10789) Searching for source files
+[Info  - 1:25:34 PM] (10789) Found 4 source files
+[Info  - 1:25:34 PM] (10789) Background analysis(1) root directory: /home/htmhqi/.vscode-server/extensions/ms-python.vscode-pylance-2022.7.20/dist
+[Info  - 1:25:34 PM] (10789) Background analysis(1) started
+[Info  - 1:25:34 PM] (10789) Indexer background runner(2) root directory: /home/htmhqi/.vscode-server/extensions/ms-python.vscode-pylance-2022.7.20/dist (index)
+[Info  - 1:25:34 PM] (10789) Indexing(2) started
+[Info  - 1:25:34 PM] (10789) Indexer done(2). indexed 423 files

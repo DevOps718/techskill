@@ -13,38 +13,14 @@ print(current_directory)
 #print(im.size,im.format,im.mode)
 
 
-#path = r'C:\Users\IMRRO\OneDrive\Desktop\images'
-
 for (root, dirs, files) in os.walk('.'):
     for file in files:
-        outputformat = 'JPEG'
-        if file.format == outputformat:
-            name = os.getcwd() + '/'+file
-            im = Image.open(name)
-            os.makedirs("/home/htmhqi/newfolder", exist_ok=True)
-            path = "/home/htmhqi/newfolder"
-            #print(str(path))
-            os.chdir(path)
-            #file_name, file_ext = os.path.splitext(file)
-            im.rotate(180).resize((640,480)).save('{}.png'.format(name))
-            
-            #img.save('{}.png'.format(file_name))
-            
-            #print(im.format, im.size, im.mode)
-            
-            
-            #out = im.rotate(45)
-            #print(name)
-            #with open(name) as im:
-            #im.show()            
+      file_name, file_ext = os.path.splitext(file)
+      name = current_directory + '/'+file_name
+      print(name)
       
-        #file[0].split('.jpg')
-        #img = Image.open()
-        #file_name, file_ext = os.path.splitext(file)
-    
-        #img.save('{}.png'.format(file_name))
-        
+      try:
+        Image.open(file).rotate(270).convert("RGB").save(name, "JPEG")
 
-    #out = im.rotate(45)
-    #print(out)
-    
+      except IOError:
+           print("cannot convert", file)

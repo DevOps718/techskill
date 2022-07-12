@@ -16,3 +16,6 @@
 [2022-07-10 18:36:25.940] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
 [2022-07-10 18:36:25.992] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
 [2022-07-10 20:58:26.843] [exthost] [info] ExtensionService#_doActivateExtension vscode.references-view, startup: false, activationEvent: 'onCommand:references-view.findReferences'
+[2022-07-10 23:53:26.378] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-07-10 23:53:26.378] [exthost] [info] Lock '/home/htmhqi/.vscode-server/data/User/workspaceStorage/b8b0059f5e879175db10163d2663be81/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2022-07-10 23:53:26.403] [exthost] [info] Extension host with pid 81 exiting with code 0

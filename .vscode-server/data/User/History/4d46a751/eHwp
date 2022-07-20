@@ -1,0 +1,349 @@
+hhhh
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch test_skills
+# Changes to be committed:
+#	modified:   .bash_history
+#	renamed:    .vscode-server/data/CachedExtensionVSIXs/ms-toolsai.jupyter-2022.6.1001902341 -> .vscode-server/data/CachedExtensionVSIXs/ms-toolsai.jupyter-2022.6.1101950301
+#	modified:   .vscode-server/data/CachedExtensions/user
+#	new file:   .vscode-server/data/User/History/-2e3365ad/SAqM.txt
+#	new file:   .vscode-server/data/User/History/-2e3365ad/entries.json
+#	new file:   .vscode-server/data/User/History/-4af1cfbb/0J5h.py
+#	new file:   .vscode-server/data/User/History/-4af1cfbb/C6Ui.py
+#	new file:   .vscode-server/data/User/History/-4af1cfbb/D5w2.py
+#	new file:   .vscode-server/data/User/History/-4af1cfbb/E6VX.py
+#	new file:   .vscode-server/data/User/History/-4af1cfbb/GK0h.py
+#	new file:   .vscode-server/data/User/History/-4af1cfbb/MBRo.py
+#	new file:   .vscode-server/data/User/History/-4af1cfbb/Sr4Q.py
+#	modified:   .vscode-server/data/User/History/-4af1cfbb/entries.json
+#	new file:   .vscode-server/data/User/History/-4af1cfbb/ssKT.py
+#	new file:   .vscode-server/data/User/History/-4af1cfbb/yFZK.py
+#	new file:   .vscode-server/data/User/History/441d0e55/IIpZ.py
+#	new file:   .vscode-server/data/User/History/441d0e55/Ow45.py
+#	new file:   .vscode-server/data/User/History/441d0e55/ZgOR.py
+#	new file:   .vscode-server/data/User/History/441d0e55/entries.json
+#	new file:   .vscode-server/data/User/History/441d0e55/qdIy.py
+#	modified:   .vscode-server/data/User/workspaceStorage/b8b0059f5e879175db10163d2663be81/vscode.lock
+#	deleted:    .vscode-server/data/logs/20220702T200804/exthost1/exthost.log
+#	deleted:    .vscode-server/data/logs/20220702T200804/exthost1/output_logging_20220702T200804/1-Git.log
+#	deleted:    .vscode-server/data/logs/20220702T200804/exthost1/output_logging_20220702T200804/4-Jupyter.log
+#	deleted:    .vscode-server/data/logs/20220702T200804/exthost1/output_logging_20220702T200804/6-Python Language Server.log
+#	deleted:    .vscode-server/data/logs/20220702T200804/remoteagent.log
+#	deleted:    .vscode-server/data/logs/20220703T202826/exthost1/exthost.log
+#	deleted:    .vscode-server/data/logs/20220703T202826/exthost1/output_logging_20220703T202827/3-Jupyter.log
+#	deleted:    .vscode-server/data/logs/20220703T202826/exthost1/output_logging_20220703T202827/4-Git.log
+#	deleted:    .vscode-server/data/logs/20220703T202826/exthost1/output_logging_20220703T202827/6-Python Language Server.log
+#	deleted:    .vscode-server/data/logs/20220703T202826/remoteagent.log
+#	modified:   .vscode-server/data/logs/20220710T183623/exthost1/exthost.log
+#	modified:   .vscode-server/data/logs/20220710T183623/exthost1/output_logging_20220710T183624/1-Python.log
+#	modified:   .vscode-server/data/logs/20220710T183623/exthost1/output_logging_20220710T183624/3-Jupyter.log
+#	modified:   .vscode-server/data/logs/20220710T183623/exthost1/output_logging_20220710T183624/4-Git.log
+#	modified:   .vscode-server/data/logs/20220710T183623/remoteagent.log
+#	new file:   .vscode-server/data/logs/20220711T224240/exthost1/exthost.log
+#	renamed:    .vscode-server/data/logs/20220703T202826/exthost1/output_logging_20220703T202827/1-Python.log -> .vscode-server/data/logs/20220711T224240/exthost1/output_logging_20220711T224241/1-Python.log
+#	renamed:    .vscode-server/data/logs/20220703T202826/exthost1/output_logging_20220703T202827/2-Python Test Log.log -> .vscode-server/data/logs/20220711T224240/exthost1/output_logging_20220711T224241/2-Python Test Log.log
+#	new file:   .vscode-server/data/logs/20220711T224240/exthost1/output_logging_20220711T224241/3-Jupyter.log
+#	new file:   .vscode-server/data/logs/20220711T224240/exthost1/output_logging_20220711T224241/4-Git.log
+#	renamed:    .vscode-server/data/logs/20220702T200804/exthost1/output_logging_20220702T200804/5-JSON Language Server.log -> .vscode-server/data/logs/20220711T224240/exthost1/output_logging_20220711T224241/5-JSON Language Server.log
+#	new file:   .vscode-server/data/logs/20220711T224240/exthost1/output_logging_20220711T224241/6-Python Language Server.log
+#	renamed:    .vscode-server/data/logs/20220702T200804/exthost1/output_logging_20220702T200804/3-Python Test Log.log -> .vscode-server/data/logs/20220711T224240/ptyhost.log
+#	new file:   .vscode-server/data/logs/20220711T224240/remoteagent.log
+#	new file:   .vscode-server/data/logs/20220712T111610/exthost1/exthost.log
+#	renamed:    .vscode-server/data/logs/20220702T200804/exthost1/output_logging_20220702T200804/2-Python.log -> .vscode-server/data/logs/20220712T111610/exthost1/output_logging_20220712T111611/1-Python.log
+#	renamed:    .vscode-server/data/logs/20220703T202826/exthost1/output_logging_20220703T202827/5-JSON Language Server.log -> .vscode-server/data/logs/20220712T111610/exthost1/output_logging_20220712T111611/2-Python Test Log.log
+#	new file:   .vscode-server/data/logs/20220712T111610/exthost1/output_logging_20220712T111611/3-Jupyter.log
+#	new file:   .vscode-server/data/logs/20220712T111610/exthost1/output_logging_20220712T111611/4-Git.log
+#	new file:   .vscode-server/data/logs/20220712T111610/exthost1/output_logging_20220712T111611/5-JSON Language Server.log
+#	new file:   .vscode-server/data/logs/20220712T111610/exthost1/output_logging_20220712T111611/6-Python Language Server.log
+#	new file:   .vscode-server/data/logs/20220712T111610/exthost2/exthost.log
+#	new file:   .vscode-server/data/logs/20220712T111610/exthost2/output_logging_20220712T131738/1-Git.log
+#	new file:   .vscode-server/data/logs/20220712T111610/exthost3/exthost.log
+#	new file:   .vscode-server/data/logs/20220712T111610/exthost3/output_logging_20220712T131809/1-Git.log
+#	new file:   .vscode-server/data/logs/20220712T111610/exthost3/output_logging_20220712T131809/2-Python.log
+#	new file:   .vscode-server/data/logs/20220712T111610/exthost3/output_logging_20220712T131809/3-Python Test Log.log
+#	new file:   .vscode-server/data/logs/20220712T111610/exthost3/output_logging_20220712T131809/4-Jupyter.log
+#	new file:   .vscode-server/data/logs/20220712T111610/exthost3/output_logging_20220712T131809/5-JSON Language Server.log
+#	new file:   .vscode-server/data/logs/20220712T111610/exthost3/output_logging_20220712T131809/6-Python Language Server.log
+#	new file:   .vscode-server/data/logs/20220712T111610/ptyhost.log
+#	new file:   .vscode-server/data/logs/20220712T111610/remoteagent.log
+#	deleted:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/nls.bundle.cs.json
+#	deleted:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/nls.bundle.de.json
+#	deleted:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/nls.bundle.es.json
+#	deleted:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/nls.bundle.fr.json
+#	deleted:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/nls.bundle.it.json
+#	deleted:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/nls.bundle.ja.json
+#	deleted:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/nls.bundle.ko.json
+#	deleted:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/nls.bundle.pl.json
+#	deleted:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/nls.bundle.pt-BR.json
+#	deleted:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/nls.bundle.qps-ploc.json
+#	deleted:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/nls.bundle.ru.json
+#	deleted:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/nls.bundle.tr.json
+#	deleted:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/nls.bundle.zh-Hans.json
+#	deleted:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/nls.bundle.zh-Hant.json
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/.husky/pre-commit -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/.husky/pre-commit
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/.vsixmanifest -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/.vsixmanifest
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/CHANGELOG.md -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/CHANGELOG.md
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/INTERACTIVE_TROUBLESHOOTING.md -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/INTERACTIVE_TROUBLESHOOTING.md
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/LICENSE.txt -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/LICENSE.txt
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/README.md -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/README.md
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/SD-memtest.json -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/SD-memtest.json
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/SECURITY.md -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/SECURITY.md
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/TELEMETRY.md -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/TELEMETRY.md
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/ThirdPartyNotices-Repository.txt -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/ThirdPartyNotices-Repository.txt
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/ThirdPartyNotices.txt -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/ThirdPartyNotices.txt
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/debugpy_logging.cmd -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/debugpy_logging.cmd
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/icon.png -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/icon.png
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/164.node.js -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/164.node.js
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/164.web.bundle.js -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/164.web.bundle.js
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/391.node.js -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/391.node.js
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/391.web.bundle.js -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/391.web.bundle.js
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/939.node.js -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/939.node.js
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/939.node.js.LICENSE.txt -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/939.node.js.LICENSE.txt
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/939.web.bundle.js -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/939.web.bundle.js
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/939.web.bundle.js.LICENSE.txt -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/939.web.bundle.js.LICENSE.txt
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/extension.node.js -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/extension.node.js
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/extension.node.js.LICENSE.txt -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/extension.node.js.LICENSE.txt
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/extension.web.bundle.js -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/extension.web.bundle.js
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/extension.web.bundle.js.LICENSE.txt -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/extension.web.bundle.js.LICENSE.txt
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/fontAwesome/fontAwesomeLoader.js -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/fontAwesome/fontAwesomeLoader.js
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/fontAwesome/node_modules/font-awesome/HELP-US-OUT.txt -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/fontAwesome/node_modules/font-awesome/HELP-US-OUT.txt
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/fontAwesome/node_modules/font-awesome/README.md -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/fontAwesome/node_modules/font-awesome/README.md
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/fontAwesome/node_modules/font-awesome/css/font-awesome.css -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/fontAwesome/node_modules/font-awesome/css/font-awesome.css
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/fontAwesome/node_modules/font-awesome/css/font-awesome.min.css -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/fontAwesome/node_modules/font-awesome/css/font-awesome.min.css
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/fontAwesome/node_modules/font-awesome/fonts/FontAwesome.otf -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/fontAwesome/node_modules/font-awesome/fonts/FontAwesome.otf
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/fontAwesome/node_modules/font-awesome/fonts/fontawesome-webfont.eot -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/fontAwesome/node_modules/font-awesome/fonts/fontawesome-webfont.eot
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/fontAwesome/node_modules/font-awesome/fonts/fontawesome-webfont.svg -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/fontAwesome/node_modules/font-awesome/fonts/fontawesome-webfont.svg
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/fontAwesome/node_modules/font-awesome/fonts/fontawesome-webfont.ttf -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/fontAwesome/node_modules/font-awesome/fonts/fontawesome-webfont.ttf
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/fontAwesome/node_modules/font-awesome/fonts/fontawesome-webfont.woff -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/fontAwesome/node_modules/font-awesome/fonts/fontawesome-webfont.woff
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/fontAwesome/node_modules/font-awesome/fonts/fontawesome-webfont.woff2 -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/fontAwesome/node_modules/font-awesome/fonts/fontawesome-webfont.woff2
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/fontAwesome/node_modules/font-awesome/less/animated.less -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/fontAwesome/node_modules/font-awesome/less/animated.less
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/fontAwesome/node_modules/font-awesome/less/bordered-pulled.less -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/fontAwesome/node_modules/font-awesome/less/bordered-pulled.less
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/fontAwesome/node_modules/font-awesome/less/core.less -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/fontAwesome/node_modules/font-awesome/less/core.less
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/fontAwesome/node_modules/font-awesome/less/fixed-width.less -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/fontAwesome/node_modules/font-awesome/less/fixed-width.less
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/fontAwesome/node_modules/font-awesome/less/font-awesome.less -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/fontAwesome/node_modules/font-awesome/less/font-awesome.less
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/fontAwesome/node_modules/font-awesome/less/icons.less -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/fontAwesome/node_modules/font-awesome/less/icons.less
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/fontAwesome/node_modules/font-awesome/less/larger.less -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/fontAwesome/node_modules/font-awesome/less/larger.less
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/fontAwesome/node_modules/font-awesome/less/list.less -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/fontAwesome/node_modules/font-awesome/less/list.less
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/fontAwesome/node_modules/font-awesome/less/mixins.less -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/fontAwesome/node_modules/font-awesome/less/mixins.less
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/fontAwesome/node_modules/font-awesome/less/path.less -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/fontAwesome/node_modules/font-awesome/less/path.less
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/fontAwesome/node_modules/font-awesome/less/rotated-flipped.less -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/fontAwesome/node_modules/font-awesome/less/rotated-flipped.less
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/fontAwesome/node_modules/font-awesome/less/screen-reader.less -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/fontAwesome/node_modules/font-awesome/less/screen-reader.less
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/fontAwesome/node_modules/font-awesome/less/stacked.less -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/fontAwesome/node_modules/font-awesome/less/stacked.less
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/fontAwesome/node_modules/font-awesome/less/variables.less -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/fontAwesome/node_modules/font-awesome/less/variables.less
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/fontAwesome/node_modules/font-awesome/package.json -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/fontAwesome/node_modules/font-awesome/package.json
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/fontAwesome/node_modules/font-awesome/scss/_animated.scss -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/fontAwesome/node_modules/font-awesome/scss/_animated.scss
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/fontAwesome/node_modules/font-awesome/scss/_bordered-pulled.scss -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/fontAwesome/node_modules/font-awesome/scss/_bordered-pulled.scss
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/fontAwesome/node_modules/font-awesome/scss/_core.scss -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/fontAwesome/node_modules/font-awesome/scss/_core.scss
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/fontAwesome/node_modules/font-awesome/scss/_fixed-width.scss -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/fontAwesome/node_modules/font-awesome/scss/_fixed-width.scss
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/fontAwesome/node_modules/font-awesome/scss/_icons.scss -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/fontAwesome/node_modules/font-awesome/scss/_icons.scss
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/fontAwesome/node_modules/font-awesome/scss/_larger.scss -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/fontAwesome/node_modules/font-awesome/scss/_larger.scss
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/fontAwesome/node_modules/font-awesome/scss/_list.scss -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/fontAwesome/node_modules/font-awesome/scss/_list.scss
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/fontAwesome/node_modules/font-awesome/scss/_mixins.scss -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/fontAwesome/node_modules/font-awesome/scss/_mixins.scss
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/fontAwesome/node_modules/font-awesome/scss/_path.scss -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/fontAwesome/node_modules/font-awesome/scss/_path.scss
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/fontAwesome/node_modules/font-awesome/scss/_rotated-flipped.scss -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/fontAwesome/node_modules/font-awesome/scss/_rotated-flipped.scss
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/fontAwesome/node_modules/font-awesome/scss/_screen-reader.scss -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/fontAwesome/node_modules/font-awesome/scss/_screen-reader.scss
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/fontAwesome/node_modules/font-awesome/scss/_stacked.scss -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/fontAwesome/node_modules/font-awesome/scss/_stacked.scss
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/fontAwesome/node_modules/font-awesome/scss/_variables.scss -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/fontAwesome/node_modules/font-awesome/scss/_variables.scss
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/fontAwesome/node_modules/font-awesome/scss/font-awesome.scss -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/fontAwesome/node_modules/font-awesome/scss/font-awesome.scss
+#	new file:   .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/nls.bundle.cs.json
+#	new file:   .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/nls.bundle.de.json
+#	new file:   .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/nls.bundle.es.json
+#	new file:   .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/nls.bundle.fr.json
+#	new file:   .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/nls.bundle.it.json
+#	new file:   .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/nls.bundle.ja.json
+#	new file:   .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/nls.bundle.ko.json
+#	new file:   .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/nls.bundle.pl.json
+#	new file:   .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/nls.bundle.pt-BR.json
+#	new file:   .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/nls.bundle.qps-ploc.json
+#	new file:   .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/nls.bundle.ru.json
+#	new file:   .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/nls.bundle.tr.json
+#	new file:   .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/nls.bundle.zh-Hans.json
+#	new file:   .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/nls.bundle.zh-Hant.json
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/nls.metadata.header.json -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/nls.metadata.header.json
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/nls.metadata.json -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/nls.metadata.json
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/node_modules/@jupyterlab/services.js -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/node_modules/@jupyterlab/services.js
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/node_modules/@jupyterlab/services.js.LICENSE.txt -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/node_modules/@jupyterlab/services.js.LICENSE.txt
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/node_modules/@vscode/jupyter-ipywidgets/dist/281.ipywidgets.js -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/node_modules/@vscode/jupyter-ipywidgets/dist/281.ipywidgets.js
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/node_modules/@vscode/jupyter-ipywidgets/dist/87.ipywidgets.js -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/node_modules/@vscode/jupyter-ipywidgets/dist/87.ipywidgets.js
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/node_modules/@vscode/jupyter-ipywidgets/dist/ipywidgets.js -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/node_modules/@vscode/jupyter-ipywidgets/dist/ipywidgets.js
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/node_modules/@vscode/jupyter-ipywidgets/dist/ipywidgets.js.LICENSE.txt -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/node_modules/@vscode/jupyter-ipywidgets/dist/ipywidgets.js.LICENSE.txt
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/node_modules/crypto-js.js -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/node_modules/crypto-js.js
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/node_modules/crypto-js.js.LICENSE.txt -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/node_modules/crypto-js.js.LICENSE.txt
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/node_modules/fontkit.js -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/node_modules/fontkit.js
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/node_modules/jquery/dist/jquery.min.js -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/node_modules/jquery/dist/jquery.min.js
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/node_modules/jquery/dist/jquery.min.js.LICENSE.txt -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/node_modules/jquery/dist/jquery.min.js.LICENSE.txt
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/node_modules/node-gyp-build/LICENSE -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/node_modules/node-gyp-build/LICENSE
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/node_modules/node-gyp-build/README.md -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/node_modules/node-gyp-build/README.md
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/node_modules/node-gyp-build/bin.js -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/node_modules/node-gyp-build/bin.js
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/node_modules/node-gyp-build/build-test.js -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/node_modules/node-gyp-build/build-test.js
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/node_modules/node-gyp-build/index.js -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/node_modules/node-gyp-build/index.js
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/node_modules/node-gyp-build/optional.js -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/node_modules/node-gyp-build/optional.js
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/node_modules/node-gyp-build/package.json -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/node_modules/node-gyp-build/package.json
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/node_modules/node-stream-zip.js -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/node_modules/node-stream-zip.js
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/node_modules/node-stream-zip.js.LICENSE.txt -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/node_modules/node-stream-zip.js.LICENSE.txt
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/node_modules/pdfkit/js/pdfkit.standalone.js -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/node_modules/pdfkit/js/pdfkit.standalone.js
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/node_modules/pdfkit/js/pdfkit.standalone.js.LICENSE.txt -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/node_modules/pdfkit/js/pdfkit.standalone.js.LICENSE.txt
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/node_modules/png-js.js -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/node_modules/png-js.js
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/node_modules/unicode/category/Ll.js -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/node_modules/unicode/category/Ll.js
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/node_modules/unicode/category/Lm.js -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/node_modules/unicode/category/Lm.js
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/node_modules/unicode/category/Lo.js -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/node_modules/unicode/category/Lo.js
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/node_modules/unicode/category/Lt.js -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/node_modules/unicode/category/Lt.js
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/node_modules/unicode/category/Lu.js -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/node_modules/unicode/category/Lu.js
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/node_modules/unicode/category/Mc.js -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/node_modules/unicode/category/Mc.js
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/node_modules/unicode/category/Mn.js -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/node_modules/unicode/category/Mn.js
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/node_modules/unicode/category/Nd.js -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/node_modules/unicode/category/Nd.js
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/node_modules/unicode/category/Nl.js -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/node_modules/unicode/category/Nl.js
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/node_modules/unicode/category/Pc.js -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/node_modules/unicode/category/Pc.js
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/node_modules/zeromq/draft.js -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/node_modules/zeromq/draft.js
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/node_modules/zeromq/lib/compat.js -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/node_modules/zeromq/lib/compat.js
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/node_modules/zeromq/lib/draft.js -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/node_modules/zeromq/lib/draft.js
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/node_modules/zeromq/lib/index.js -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/node_modules/zeromq/lib/index.js
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/node_modules/zeromq/lib/native.js -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/node_modules/zeromq/lib/native.js
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/node_modules/zeromq/package.json -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/node_modules/zeromq/package.json
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/node_modules/zeromq/prebuilds/darwin-x64/electron.napi.node -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/node_modules/zeromq/prebuilds/darwin-x64/electron.napi.node
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/node_modules/zeromq/prebuilds/darwin-x64/node.napi.node -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/node_modules/zeromq/prebuilds/darwin-x64/node.napi.node
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/node_modules/zeromq/prebuilds/linux-arm/electron.napi.glibc.node -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/node_modules/zeromq/prebuilds/linux-arm/electron.napi.glibc.node
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/node_modules/zeromq/prebuilds/linux-arm/node.napi.glibc.node -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/node_modules/zeromq/prebuilds/linux-arm/node.napi.glibc.node
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/node_modules/zeromq/prebuilds/linux-arm64/electron.napi.glibc.node -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/node_modules/zeromq/prebuilds/linux-arm64/electron.napi.glibc.node
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/node_modules/zeromq/prebuilds/linux-arm64/node.napi.glibc.node -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/node_modules/zeromq/prebuilds/linux-arm64/node.napi.glibc.node
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/node_modules/zeromq/prebuilds/linux-x64/electron.napi.glibc.node -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/node_modules/zeromq/prebuilds/linux-x64/electron.napi.glibc.node
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/node_modules/zeromq/prebuilds/linux-x64/electron.napi.musl.node -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/node_modules/zeromq/prebuilds/linux-x64/electron.napi.musl.node
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/node_modules/zeromq/prebuilds/linux-x64/node.napi.glibc.node -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/node_modules/zeromq/prebuilds/linux-x64/node.napi.glibc.node
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/node_modules/zeromq/prebuilds/linux-x64/node.napi.musl.node -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/node_modules/zeromq/prebuilds/linux-x64/node.napi.musl.node
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/node_modules/zeromq/prebuilds/win32-ia32/electron.napi.node -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/node_modules/zeromq/prebuilds/win32-ia32/electron.napi.node
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/node_modules/zeromq/prebuilds/win32-ia32/node.napi.node -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/node_modules/zeromq/prebuilds/win32-ia32/node.napi.node
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/node_modules/zeromq/prebuilds/win32-x64/electron.napi.node -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/node_modules/zeromq/prebuilds/win32-x64/electron.napi.node
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/node_modules/zeromq/prebuilds/win32-x64/node.napi.node -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/node_modules/zeromq/prebuilds/win32-x64/node.napi.node
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/node_modules/zeromq/v5-compat.js -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/node_modules/zeromq/v5-compat.js
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/src/platform/common/utils/localize.nls.metadata.json -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/src/platform/common/utils/localize.nls.metadata.json
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/webviews/webview-side/errorRenderer/errorRenderer.js -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/webviews/webview-side/errorRenderer/errorRenderer.js
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/webviews/webview-side/errorRenderer/require.js -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/webviews/webview-side/errorRenderer/require.js
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/webviews/webview-side/errorRenderer/require.js.LICENSE.txt -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/webviews/webview-side/errorRenderer/require.js.LICENSE.txt
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/webviews/webview-side/ipywidgetsKernel/ipywidgetsKernel.js -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/webviews/webview-side/ipywidgetsKernel/ipywidgetsKernel.js
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/webviews/webview-side/ipywidgetsKernel/ipywidgetsKernel.js.LICENSE.txt -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/webviews/webview-side/ipywidgetsKernel/ipywidgetsKernel.js.LICENSE.txt
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/webviews/webview-side/ipywidgetsKernel/require.js -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/webviews/webview-side/ipywidgetsKernel/require.js
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/webviews/webview-side/ipywidgetsKernel/require.js.LICENSE.txt -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/webviews/webview-side/ipywidgetsKernel/require.js.LICENSE.txt
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/webviews/webview-side/ipywidgetsRenderer/ipywidgetsRenderer.js -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/webviews/webview-side/ipywidgetsRenderer/ipywidgetsRenderer.js
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/webviews/webview-side/viewers/7426cb0f58aebc110d46.svg -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/webviews/webview-side/viewers/7426cb0f58aebc110d46.svg
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/webviews/webview-side/viewers/dataExplorer.js -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/webviews/webview-side/viewers/dataExplorer.js
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/webviews/webview-side/viewers/dataExplorer.js.LICENSE.txt -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/webviews/webview-side/viewers/dataExplorer.js.LICENSE.txt
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/webviews/webview-side/viewers/plotViewer.js -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/webviews/webview-side/viewers/plotViewer.js
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/webviews/webview-side/viewers/plotViewer.js.LICENSE.txt -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/webviews/webview-side/viewers/plotViewer.js.LICENSE.txt
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/webviews/webview-side/viewers/require.js -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/webviews/webview-side/viewers/require.js
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/webviews/webview-side/viewers/require.js.LICENSE.txt -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/webviews/webview-side/viewers/require.js.LICENSE.txt
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/webviews/webview-side/viewers/variableView.js -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/webviews/webview-side/viewers/variableView.js
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/out/webviews/webview-side/viewers/variableView.js.LICENSE.txt -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/out/webviews/webview-side/viewers/variableView.js.LICENSE.txt
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/package.json -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/package.json
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/package.nls.cs.json -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/package.nls.cs.json
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/package.nls.de.json -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/package.nls.de.json
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/package.nls.es.json -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/package.nls.es.json
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/package.nls.fr.json -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/package.nls.fr.json
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/package.nls.it.json -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/package.nls.it.json
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/package.nls.ja.json -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/package.nls.ja.json
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/package.nls.json -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/package.nls.json
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/package.nls.ko.json -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/package.nls.ko.json
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/package.nls.nl.json -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/package.nls.nl.json
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/package.nls.pl.json -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/package.nls.pl.json
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/package.nls.pt-BR.json -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/package.nls.pt-BR.json
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/package.nls.qps-ploc.json -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/package.nls.qps-ploc.json
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/package.nls.ru.json -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/package.nls.ru.json
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/package.nls.tr.json -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/package.nls.tr.json
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/package.nls.zh-Hans.json -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/package.nls.zh-Hans.json
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/package.nls.zh-Hant.json -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/package.nls.zh-Hant.json
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/package.nls.zh-cn.json -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/package.nls.zh-cn.json
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/package.nls.zh-tw.json -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/package.nls.zh-tw.json
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/pythonFiles/.env -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/pythonFiles/.env
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/pythonFiles/.vscode/settings.json -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/pythonFiles/.vscode/settings.json
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/pythonFiles/Notebooks intro.ipynb -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/pythonFiles/Notebooks intro.ipynb
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/pythonFiles/completion.py -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/pythonFiles/completion.py
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/pythonFiles/install_debugpy.py -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/pythonFiles/install_debugpy.py
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/pythonFiles/interpreterInfo.py -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/pythonFiles/interpreterInfo.py
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/pythonFiles/lib/python/pyls_jsonrpc/__init__.py -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/pythonFiles/lib/python/pyls_jsonrpc/__init__.py
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/pythonFiles/lib/python/pyls_jsonrpc/_version.py -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/pythonFiles/lib/python/pyls_jsonrpc/_version.py
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/pythonFiles/lib/python/pyls_jsonrpc/dispatchers.py -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/pythonFiles/lib/python/pyls_jsonrpc/dispatchers.py
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/pythonFiles/lib/python/pyls_jsonrpc/endpoint.py -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/pythonFiles/lib/python/pyls_jsonrpc/endpoint.py
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/pythonFiles/lib/python/pyls_jsonrpc/exceptions.py -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/pythonFiles/lib/python/pyls_jsonrpc/exceptions.py
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/pythonFiles/lib/python/pyls_jsonrpc/streams.py -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/pythonFiles/lib/python/pyls_jsonrpc/streams.py
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/pythonFiles/normalizeForInterpreter.py -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/pythonFiles/normalizeForInterpreter.py
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/pythonFiles/normalizeSelection.py -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/pythonFiles/normalizeSelection.py
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/pythonFiles/printEnvVariables.py -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/pythonFiles/printEnvVariables.py
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/pythonFiles/printEnvVariablesToFile.py -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/pythonFiles/printEnvVariablesToFile.py
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/pythonFiles/pyproject.toml -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/pythonFiles/pyproject.toml
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/pythonFiles/runJediLanguageServer.py -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/pythonFiles/runJediLanguageServer.py
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/pythonFiles/shell_exec.py -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/pythonFiles/shell_exec.py
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/pythonFiles/symbolProvider.py -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/pythonFiles/symbolProvider.py
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/pythonFiles/testlauncher.py -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/pythonFiles/testlauncher.py
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/pythonFiles/visualstudio_py_testlauncher.py -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/pythonFiles/visualstudio_py_testlauncher.py
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/pythonFiles/vscode_datascience_helpers/__init__.py -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/pythonFiles/vscode_datascience_helpers/__init__.py
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/pythonFiles/vscode_datascience_helpers/daemon/README.md -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/pythonFiles/vscode_datascience_helpers/daemon/README.md
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/pythonFiles/vscode_datascience_helpers/daemon/__init__.py -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/pythonFiles/vscode_datascience_helpers/daemon/__init__.py
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/pythonFiles/vscode_datascience_helpers/daemon/__main__.py -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/pythonFiles/vscode_datascience_helpers/daemon/__main__.py
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/pythonFiles/vscode_datascience_helpers/daemon/daemon_output.py -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/pythonFiles/vscode_datascience_helpers/daemon/daemon_output.py
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/pythonFiles/vscode_datascience_helpers/daemon/daemon_python.py -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/pythonFiles/vscode_datascience_helpers/daemon/daemon_python.py
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/pythonFiles/vscode_datascience_helpers/dataframes/vscodeDataFrame.py -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/pythonFiles/vscode_datascience_helpers/dataframes/vscodeDataFrame.py
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/pythonFiles/vscode_datascience_helpers/dummyJupyter.py -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/pythonFiles/vscode_datascience_helpers/dummyJupyter.py
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/pythonFiles/vscode_datascience_helpers/getJupyterKernels.py -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/pythonFiles/vscode_datascience_helpers/getJupyterKernels.py
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/pythonFiles/vscode_datascience_helpers/getJupyterKernelspecVersion.py -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/pythonFiles/vscode_datascience_helpers/getJupyterKernelspecVersion.py
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/pythonFiles/vscode_datascience_helpers/getJupyterVariableDataFrameInfo.py -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/pythonFiles/vscode_datascience_helpers/getJupyterVariableDataFrameInfo.py
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/pythonFiles/vscode_datascience_helpers/getJupyterVariableDataFrameRows.py -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/pythonFiles/vscode_datascience_helpers/getJupyterVariableDataFrameRows.py
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/pythonFiles/vscode_datascience_helpers/getJupyterVariableShape.py -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/pythonFiles/vscode_datascience_helpers/getJupyterVariableShape.py
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/pythonFiles/vscode_datascience_helpers/getServerInfo.py -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/pythonFiles/vscode_datascience_helpers/getServerInfo.py
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/pythonFiles/vscode_datascience_helpers/getVariableInfo/vscodeGetVariableInfo.py -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/pythonFiles/vscode_datascience_helpers/getVariableInfo/vscodeGetVariableInfo.py
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/pythonFiles/vscode_datascience_helpers/jupyter_daemon.py -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/pythonFiles/vscode_datascience_helpers/jupyter_daemon.py
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/pythonFiles/vscode_datascience_helpers/jupyter_nbInstalled.py -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/pythonFiles/vscode_datascience_helpers/jupyter_nbInstalled.py
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/pythonFiles/vscode_datascience_helpers/kernel/addRunCellHook.py -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/pythonFiles/vscode_datascience_helpers/kernel/addRunCellHook.py
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/pythonFiles/vscode_datascience_helpers/kernel_interrupt_daemon.py -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/pythonFiles/vscode_datascience_helpers/kernel_interrupt_daemon.py
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/pythonFiles/vscode_datascience_helpers/tests/logParser.py -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/pythonFiles/vscode_datascience_helpers/tests/logParser.py
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/pythonFiles/vscode_datascience_helpers/winapi.py -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/pythonFiles/vscode_datascience_helpers/winapi.py
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/requirements.txt -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/requirements.txt
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/resources/InstallJupyter.png -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/resources/InstallJupyter.png
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/resources/MagicPython.tmLanguage.json -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/resources/MagicPython.tmLanguage.json
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/resources/PythonSelector.png -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/resources/PythonSelector.png
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/resources/ctagOptions -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/resources/ctagOptions
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/resources/dark/export_to_python.svg -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/resources/dark/export_to_python.svg
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/resources/dark/interrupt.svg -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/resources/dark/interrupt.svg
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/resources/dark/restart-kernel.svg -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/resources/dark/restart-kernel.svg
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/resources/dark/runabove-inverse.svg -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/resources/dark/runabove-inverse.svg
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/resources/dark/runbelow-inverse.svg -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/resources/dark/runbelow-inverse.svg
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/resources/dark/variable_explorer.svg -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/resources/dark/variable_explorer.svg
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/resources/defaultTheme.json -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/resources/defaultTheme.json
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/resources/jupyter-markdown-style.css -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/resources/jupyter-markdown-style.css
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/resources/light/export_to_python.svg -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/resources/light/export_to_python.svg
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/resources/light/interrupt.svg -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/resources/light/interrupt.svg
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/resources/light/restart-kernel.svg -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/resources/light/restart-kernel.svg
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/resources/light/runabove.svg -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/resources/light/runabove.svg
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/resources/light/runbelow.svg -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/resources/light/runbelow.svg
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/resources/light/variable_explorer.svg -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/resources/light/variable_explorer.svg
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/resources/walkthroughs/KernelPicker.gif -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/resources/walkthroughs/KernelPicker.gif
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/resources/walkthroughs/OpenOrCreateNotebook.gif -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/resources/walkthroughs/OpenOrCreateNotebook.gif
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/resources/walkthroughs/data.svg -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/resources/walkthroughs/data.svg
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/resources/walkthroughs/dataviewerdark.gif -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/resources/walkthroughs/dataviewerdark.gif
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/resources/walkthroughs/interactive.gif -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/resources/walkthroughs/interactive.gif
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/resources/walkthroughs/kernel.svg -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/resources/walkthroughs/kernel.svg
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/resources/walkthroughs/learnmore.svg -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/resources/walkthroughs/learnmore.svg
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/resources/walkthroughs/opennotebook.svg -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/resources/walkthroughs/opennotebook.svg
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/snippets/python.json -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/snippets/python.json
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/vscode.d.ts -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/vscode.d.ts
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/vscode.proposed.notebookCellExecutionState.d.ts -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/vscode.proposed.notebookCellExecutionState.d.ts
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/vscode.proposed.notebookControllerKind.d.ts -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/vscode.proposed.notebookControllerKind.d.ts
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/vscode.proposed.notebookDebugOptions.d.ts -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/vscode.proposed.notebookDebugOptions.d.ts
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/vscode.proposed.notebookDeprecated.d.ts -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/vscode.proposed.notebookDeprecated.d.ts
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/vscode.proposed.notebookKernelSource.d.ts -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/vscode.proposed.notebookKernelSource.d.ts
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/vscode.proposed.notebookMessaging.d.ts -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/vscode.proposed.notebookMessaging.d.ts
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/vscode.proposed.notebookMime.d.ts -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/vscode.proposed.notebookMime.d.ts
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/vscode.proposed.notebookWorkspaceEdit.d.ts -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/vscode.proposed.notebookWorkspaceEdit.d.ts
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/vscode.proposed.portsAttributes.d.ts -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/vscode.proposed.portsAttributes.d.ts
+#	renamed:    .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1001902341/vscode.proposed.quickPickSortByLabel.d.ts -> .vscode-server/extensions/ms-toolsai.jupyter-2022.6.1101950301/vscode.proposed.quickPickSortByLabel.d.ts
+#	deleted:    newfolder/flipped_and_resized.jpg
+#	new file:   newfolder/sample.txt
+#	new file:   newfolder/scriptwiki.py
+#	new file:   scripts/images/garbage
+#	new file:   scripts/images/garbage.jpeg
+#	deleted:    scripts/images/garbage.jpg
+#	modified:   scripts/images/image-Graber.py
+#
+# Changes not staged for commit:
+#	modified:   .vscode-server/data/logs/20220712T111610/exthost3/exthost.log
+#	modified:   .vscode-server/data/logs/20220712T111610/exthost3/output_logging_20220712T131809/1-Git.log
+#

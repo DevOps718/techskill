@@ -1,0 +1,16 @@
+[2022-07-14 16:33:52.657] [remoteagent] [info] Extension host agent started.
+[2022-07-14 16:33:52.816] [remoteagent] [info] [127.0.0.1][c923d275][ManagementConnection] New connection established.
+[2022-07-14 16:33:52.908] [remoteagent] [info] [127.0.0.1][47928b0d][ExtensionHostConnection] New connection established.
+[2022-07-14 16:33:53.155] [remoteagent] [info] [127.0.0.1][47928b0d][ExtensionHostConnection] <167> Launched Extension Host Process.
+[2022-07-14 16:33:56.756] [remoteagent] [info] Getting Manifest... ms-python.vscode-pylance
+[2022-07-14 16:33:57.057] [remoteagent] [info] Installing extension: ms-python.vscode-pylance
+[2022-07-14 16:34:00.473] [remoteagent] [info] Downloaded extension: ms-python.vscode-pylance /home/htmhqi/.vscode-server/data/CachedExtensionVSIXs/ms-python.vscode-pylance-2022.7.30
+[2022-07-14 16:34:03.731] [remoteagent] [info] Extracted extension to /home/htmhqi/.vscode-server/extensions/.137b94a6-c49b-48e0-ad68-b91c1539a181: ms-python.vscode-pylance
+[2022-07-14 16:34:03.740] [remoteagent] [info] Renamed to /home/htmhqi/.vscode-server/extensions/ms-python.vscode-pylance-2022.7.30
+[2022-07-14 16:34:03.743] [remoteagent] [info] Extracting completed. ms-python.vscode-pylance
+[2022-07-14 16:34:03.747] [remoteagent] [info] Extension installed successfully: ms-python.vscode-pylance
+[2022-07-14 20:08:30.080] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-07-14 20:13:10.087] [remoteagent] [info] [127.0.0.1][47928b0d][ExtensionHostConnection] The client has reconnected.
+[2022-07-14 20:13:40.735] [remoteagent] [info] [127.0.0.1][c923d275][ManagementConnection] The client has reconnected.
+[2022-07-14 22:00:05.425] [remoteagent] [info] [127.0.0.1][c923d275][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-07-14 22:00:06.148] [remoteagent] [info] [127.0.0.1][47928b0d][ExtensionHostConnection] <167> Extension Host Process exited with code: 0, signal: null.

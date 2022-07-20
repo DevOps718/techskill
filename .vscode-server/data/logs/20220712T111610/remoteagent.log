@@ -19,3 +19,21 @@
 [2022-07-12 18:23:14.184] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
 [2022-07-12 18:24:04.975] [remoteagent] [info] [127.0.0.1][33398f96][ExtensionHostConnection] The client has reconnected.
 [2022-07-12 18:24:05.076] [remoteagent] [info] [127.0.0.1][e4a87989][ManagementConnection] The client has reconnected.
+[2022-07-12 19:22:56.237] [remoteagent] [info] [127.0.0.1][e4a87989][ManagementConnection] The client has reconnected.
+[2022-07-12 19:22:56.300] [remoteagent] [info] [127.0.0.1][33398f96][ExtensionHostConnection] The client has reconnected.
+[2022-07-12 20:33:35.542] [remoteagent] [info] [127.0.0.1][e4a87989][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-07-12 20:33:35.552] [remoteagent] [info] [127.0.0.1][33398f96][ExtensionHostConnection] <9204> Extension Host Process exited with code: 0, signal: null.
+[2022-07-12 20:33:36.870] [remoteagent] [info] [127.0.0.1][3c5d0157][ManagementConnection] New connection established.
+[2022-07-12 20:33:37.447] [remoteagent] [info] [127.0.0.1][eb5e4d45][ExtensionHostConnection] New connection established.
+[2022-07-12 20:33:37.451] [remoteagent] [info] [127.0.0.1][eb5e4d45][ExtensionHostConnection] <5871> Launched Extension Host Process.
+[2022-07-12 20:52:38.718] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-07-12 20:53:29.728] [remoteagent] [info] [127.0.0.1][eb5e4d45][ExtensionHostConnection] The client has reconnected.
+[2022-07-12 20:53:30.153] [remoteagent] [info] [127.0.0.1][3c5d0157][ManagementConnection] The client has reconnected.
+[2022-07-12 20:59:11.085] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-07-12 21:02:36.764] [remoteagent] [info] [127.0.0.1][3c5d0157][ManagementConnection] The client has reconnected.
+[2022-07-12 21:02:36.857] [remoteagent] [info] [127.0.0.1][eb5e4d45][ExtensionHostConnection] The client has reconnected.
+[2022-07-12 22:10:17.051] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-07-12 22:10:41.964] [remoteagent] [info] [127.0.0.1][3c5d0157][ManagementConnection] The client has reconnected.
+[2022-07-12 22:10:42.027] [remoteagent] [info] [127.0.0.1][eb5e4d45][ExtensionHostConnection] The client has reconnected.
+[2022-07-13 01:54:39.874] [remoteagent] [info] [127.0.0.1][3c5d0157][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-07-13 01:54:39.900] [remoteagent] [info] [127.0.0.1][eb5e4d45][ExtensionHostConnection] <5871> Extension Host Process exited with code: 0, signal: null.

@@ -581,3 +581,143 @@ cd newfolder/
 ls
 rm flipped_and_resized.jpg 
 ls
+cd 
+cd scripts/
+cd im
+cd images/
+ls
+mv scriptwiki.py ~/newfolder
+mv sample.txt ~/newfolder
+cd
+ls
+cd newfolder/
+ls
+./scriptwiki.py 
+nano scriptwiki.py 
+./scriptwiki.py 
+nano scriptwiki.py 
+./scriptwiki.py 
+nano scriptwiki.py .
+./scriptwiki.py 
+nano scriptwiki.py .
+./scriptwiki.py 
+nano scriptwiki.py .
+./scriptwiki.py 
+nano scriptwiki.py .
+./scriptwiki.py 
+nano scriptwiki.py .
+./scriptwiki.py 
+nano sample.txt 
+./scriptwiki.py 
+nano scriptwiki.py .
+./scriptwiki.py 
+nano scriptwiki.py .
+./scriptwiki.py 
+nano scriptwiki.py .
+./scriptwiki.py 
+nano scriptwiki.py .
+./scriptwiki.py 
+nano scriptwiki.py .
+./scriptwiki.py 
+nano scriptwiki.py .
+./scriptwiki.py 
+ls
+cd
+ls
+cd scripts/
+ls
+cd im
+cd images/
+ls
+./image-Graber.py 
+ls
+cat garbage
+.
+ls
+rename 
+ls -l
+./image-Graber.py 
+ls
+rm garbage.jpg.png
+./image-Graber.py 
+ls
+./image-Graber.py 
+cd
+ls
+cd newfolder/
+ls
+cd
+ls
+cd scripts/
+ls
+cd images/
+ls
+./image-Graber.py 
+ls
+rm garbage
+./image-Graber.py 
+mv garbage.jpeg ~/scripts/
+ls
+./image-Graber.py 
+ls
+cd
+ls
+cd newfolder/
+ls
+cd
+ls
+cd scripts/
+ls
+mv garbage.jpeg ~/images
+ls
+cd images/
+ls
+cd
+ls
+mv images ~/images 
+ls
+mv images ~/images/image.jpg
+mv images ~/images
+ls
+mv images image.jpg
+ls
+mv image.jpg ~/images
+ls
+mv images image.jpg
+ls
+mv images ~/scripts/images
+mv images ~/scripts
+ls
+mv image.jpg  ~/scripts/images'
+mv image.jpg  ~/scripts/images'
+mv image.jpg  ~/scripts/images
+ls
+cd scripts/
+ls
+cd images/
+
+./image-Graber.py 
+ls
+./image-Graber.py 
+ls
+./image-Graber.py 
+ls
+cd
+git statues
+git status
+ls
+cd newfolder/
+ls
+C:/Users/IMRRO/AppData/Local/Microsoft/WindowsApps/python3.10.exe /home/htmhqi/newfolder/scriptwiki.py
+ls
+./scriptwiki.py 
+ls
+./scriptwiki.py 
+C:/Users/IMRRO/AppData/Local/Microsoft/WindowsApps/python3.10.exe /home/htmhqi/newfolder/scriptwiki.py
+./scriptwiki.py 
+C:/Users/IMRRO/AppData/Local/Microsoft/WindowsApps/python3.10.exe /home/htmhqi/newfolder/scriptwiki.py
+./scriptwiki.py 
+nano sample.txt 
+./scriptwiki.py 
+ls
+git status

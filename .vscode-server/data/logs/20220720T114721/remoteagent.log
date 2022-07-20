@@ -1,0 +1,19 @@
+[2022-07-20 11:47:21.998] [remoteagent] [info] Extension host agent started.
+[2022-07-20 11:47:22.208] [remoteagent] [info] [127.0.0.1][dc2595e3][ManagementConnection] New connection established.
+[2022-07-20 11:47:22.263] [remoteagent] [info] [127.0.0.1][9a05eb82][ExtensionHostConnection] New connection established.
+[2022-07-20 11:47:22.639] [remoteagent] [info] [127.0.0.1][9a05eb82][ExtensionHostConnection] <146> Launched Extension Host Process.
+[2022-07-20 11:47:22.712] [remoteagent] [info] Deleted from disk ms-python.vscode-pylance /home/htmhqi/.vscode-server/extensions/ms-python.vscode-pylance-2022.7.20
+[2022-07-20 11:47:26.437] [remoteagent] [info] Getting Manifest... ms-python.python
+[2022-07-20 11:47:26.437] [remoteagent] [info] Getting Manifest... ms-toolsai.jupyter
+[2022-07-20 11:47:26.796] [remoteagent] [info] Installing extension: ms-python.python
+[2022-07-20 11:47:26.831] [remoteagent] [info] Installing extension: ms-toolsai.jupyter
+[2022-07-20 11:47:29.788] [remoteagent] [info] Downloaded extension: ms-python.python /home/htmhqi/.vscode-server/data/CachedExtensionVSIXs/ms-python.python-2022.10.1
+[2022-07-20 11:47:32.059] [remoteagent] [info] Extracted extension to /home/htmhqi/.vscode-server/extensions/.0a105e69-fc24-4fc0-a5bc-2828a5149157: ms-python.python
+[2022-07-20 11:47:32.068] [remoteagent] [info] Renamed to /home/htmhqi/.vscode-server/extensions/ms-python.python-2022.10.1
+[2022-07-20 11:47:32.072] [remoteagent] [info] Extracting completed. ms-python.python
+[2022-07-20 11:47:32.078] [remoteagent] [info] Extension installed successfully: ms-python.python
+[2022-07-20 11:47:37.354] [remoteagent] [info] Downloaded extension: ms-toolsai.jupyter /home/htmhqi/.vscode-server/data/CachedExtensionVSIXs/ms-toolsai.jupyter-2022.6.1201981810
+[2022-07-20 11:47:37.891] [remoteagent] [info] Extracted extension to /home/htmhqi/.vscode-server/extensions/.dd5a5da2-8d17-44aa-8143-407694ab7937: ms-toolsai.jupyter
+[2022-07-20 11:47:37.898] [remoteagent] [info] Renamed to /home/htmhqi/.vscode-server/extensions/ms-toolsai.jupyter-2022.6.1201981810
+[2022-07-20 11:47:37.906] [remoteagent] [info] Extracting completed. ms-toolsai.jupyter
+[2022-07-20 11:47:37.910] [remoteagent] [info] Extension installed successfully: ms-toolsai.jupyter
